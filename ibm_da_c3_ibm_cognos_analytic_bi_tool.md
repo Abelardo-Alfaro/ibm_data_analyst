@@ -1,4 +1,4 @@
-<h1> COURSE 3: Cognos Analytic BI Tool =  AI + BI </h1>
+<h1> COURSE 3: Cognos Analytic BI Tool </h1>
 
 <h2>Description</h2>
 
